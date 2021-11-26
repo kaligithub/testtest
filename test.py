@@ -14,3 +14,5 @@ def post_processing_insured(insured_name):
 
 insured_name="Name of Proposer (Policy Holder):__AMCO Investments Ltd and subsidiaries"
 print(post_processing_insured(insured_name))
+
+its tetts kali
