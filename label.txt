@@ -1,0 +1,19 @@
+{
+  "Coverage": "01st March 2021",
+  "Insured_Address": "USD 7,700 For 18 months",
+  "Insured_Country": "Smoker",
+  "Insured_Name": "Howden Insurance Brokers Ltd.",
+  "Limit": "60.4%",
+  "Tenure": ""
+}
+
+
+From recognizer url: https://sompoform.cognitiveservices.azure.com/
+
+Key: b7c73850a0304265b036367afafdbf56
+
+
+AJG some files not have data
+--Director file
+Risk Parteners
+--All the files are same time
